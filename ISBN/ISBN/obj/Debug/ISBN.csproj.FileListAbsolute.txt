@@ -1,0 +1,14 @@
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\bin\Debug\ISBN.exe.config
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\bin\Debug\ISBN.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\bin\Debug\ISBN.pdb
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\obj\Debug\ISBN.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\obj\Debug\ISBN.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\obj\Debug\ISBN.exe
+C:\Users\Роман\Documents\Visual Studio 2017\Projects\ISBN\ISBN\obj\Debug\ISBN.pdb
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\bin\Debug\ISBN.exe.config
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\bin\Debug\ISBN.exe
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\bin\Debug\ISBN.pdb
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\obj\Debug\ISBN.csprojAssemblyReference.cache
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\obj\Debug\ISBN.csproj.CoreCompileInputs.cache
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\obj\Debug\ISBN.exe
+C:\Users\rbelotsvetov\Desktop\ISBN\ISBN\obj\Debug\ISBN.pdb
