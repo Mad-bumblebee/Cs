@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lowenstein", "Lowenstein\Lowenstein.csproj", "{904F5383-4E6D-44E1-B625-B317C1BD6C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISBN", "..\..\..\Desktop\ISBN\ISBN\ISBN\ISBN.csproj", "{7504154F-D9CC-487A-8D6D-B661A5135E09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{904F5383-4E6D-44E1-B625-B317C1BD6C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904F5383-4E6D-44E1-B625-B317C1BD6C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904F5383-4E6D-44E1-B625-B317C1BD6C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904F5383-4E6D-44E1-B625-B317C1BD6C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7504154F-D9CC-487A-8D6D-B661A5135E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7504154F-D9CC-487A-8D6D-B661A5135E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7504154F-D9CC-487A-8D6D-B661A5135E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7504154F-D9CC-487A-8D6D-B661A5135E09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B76B23-BB3D-46CE-B246-43B33207C50D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\bin\Debug\Lowenstein.exe.config
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\bin\Debug\Lowenstein.exe
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\bin\Debug\Lowenstein.pdb
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\obj\Debug\Lowenstein.csprojAssemblyReference.cache
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\obj\Debug\Lowenstein.csproj.CoreCompileInputs.cache
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\obj\Debug\Lowenstein.exe
+C:\Users\rbelotsvetov\source\repos\Lowenstein\Lowenstein\obj\Debug\Lowenstein.pdb
